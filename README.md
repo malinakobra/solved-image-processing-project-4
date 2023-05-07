@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-image-processing-project-4
+<br>
+Consider the RGB color image Bird 3 blurred.tif below.(a) Determine and plot the R, G, B, H, S and I component images.(b) Sharpen the image by RGB-based and HSI-based schemes (refer to Example 6.13)Project #4assign December 7, 2020 due December 12, 2020Your report (Word or pdf format) should contain:• Source codes (30%)• Figures of R, G, B, H, S and I component images (30%)• Figures of RGB-based (15%) and HSI-based (15%) sharpened images and theirdifference image (10%)Note: Images must be plotted with goodresolution (at least 12cm12cm).Upload your report to new e3 before due time!
